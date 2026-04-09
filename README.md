@@ -46,6 +46,5 @@ DIVIDE(
     [AttritionCount],
     COUNTROWS(HR_Analytics)
 )
-📷 Dashboard Preview
-<img width="1872" height="892" alt="image" src="https://github.com/user-attachments/assets/e9fe9b5d-6542-461f-8908-7ce0ae2996be" />
+
 
