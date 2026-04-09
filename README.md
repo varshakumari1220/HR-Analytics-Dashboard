@@ -46,6 +46,7 @@ DIVIDE(
     [AttritionCount],
     COUNTROWS(HR_Analytics)
 )
-
+#Dashboard Preview
+![HR Dashboard](dashboard.png)
 
 
