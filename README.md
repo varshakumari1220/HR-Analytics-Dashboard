@@ -47,6 +47,6 @@ DIVIDE(
     COUNTROWS(HR_Analytics)
 )
 #Dashboard Preview
-![HR Dashboard](dashboard.png)
+![HR Dashboard](dashboard.pdf)
 
 
